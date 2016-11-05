@@ -1,4 +1,4 @@
-# Kinderthul!
+# Kinderthul
 
 Kinderthul
 
